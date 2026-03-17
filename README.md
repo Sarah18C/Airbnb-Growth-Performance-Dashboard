@@ -113,3 +113,14 @@ This dashboard helps Airbnb hosts, analysts, and investors to:
 4) Pricing trends vary depending on location and property type
 5) Seasonal trends influence Airbnb booking demand
 
+
+Screenshot of Dashboard:
+
+Dashboard 1:
+<img width="978" height="723" alt="Snapshot of Overview" src="https://github.com/user-attachments/assets/f8ac1421-4b64-4896-bb83-f42a951e4829" />
+
+
+Dashboard 2:<img width="972" height="735" alt="Snapshot of Ratings" src="https://github.com/user-attachments/assets/031f5398-7f7a-41ed-bf0d-81e2f4a469bd" />
+
+
+Dashboard 3:<img width="978" height="730" alt="Snapshot of Reviews" src="https://github.com/user-attachments/assets/8a72ed7d-5ab7-47de-87e7-7ad6cf202d9f" />
